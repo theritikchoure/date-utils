@@ -1,0 +1,25 @@
+{
+  "name": "date-utils",
+  "version": "1.0.0",
+  "description": "A library for date formatting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theritikchoure/date-utils.git"
+  },
+  "keywords": [
+    "date",
+    "date-utils",
+    "date formatting"
+  ],
+  "author": "theritikchoure",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theritikchoure/date-utils/issues"
+  },
+  "homepage": "https://github.com/theritikchoure/date-utils#readme",
+  "devDependencies": {}
+}
